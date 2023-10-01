@@ -11,7 +11,7 @@
       dotnet add package Microsoft.EntityFrameworkCore.InMemory
       code -r ../TodoApi
       ```
-  - When a dialog box asks if you want to add required assets to the project, select Yes.
+- When a dialog box asks if you want to add required assets to the project, select Yes.
 - The preceding commands:
   - Creates a new web API project and opens it in Visual Studio Code.
   - Adds the NuGet packages which are required in the next section.
