@@ -2,9 +2,9 @@
 - Open the integrated terminal.
 - Change directories (cd) to the folder that will contain the project folder.
 - Run the following commands:
-
-    - .NET Core CLI
+  
       ```
+      .NET Core CLI
       dotnet new webapi -o TodoApi
       cd TodoAp i
       dotnet add package Microsoft.EntityFrameworkCore.SqlServer
